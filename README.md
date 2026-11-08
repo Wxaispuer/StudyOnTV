@@ -28,6 +28,8 @@ Android 平板、手机和电视使用同一套规则，分别安装对应版本
 
 手机和平板直接下载安装；电视可通过 U 盘或 ADB 安装。首次打开设置管理密码，权限可以按需开启，也可以稍后再设置。
 
+- **[手机安卓控制台 · 蓝奏下载]
+- （https://wwbwo.lanzoum.com/iNxkv4f6700d）**
 👉 **[安装指南 → docs/install.md](./docs/install.md)**
 
 ---
