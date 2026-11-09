@@ -4,12 +4,12 @@
 
 ### 先学再看 · 让每一点进步被看见
 
-**Learn first. Watch later.** · 支持Android 平板、手机和电视，不需要自建服务器
+**先学习，后观看。** · 支持Android平板、手机和电视，无需自建服务器
 
 [![Stars](https://img.shields.io/github/stars/chadyi/StudyOnTV?style=for-the-badge&logo=github&label=Stars)](https://github.com/chadyi/StudyOnTV/stargazers)
-[![Release](https://img.shields.io/github/v/release/chadyi/StudyOnTV?style=for-the-badge&label=Release)](https://github.com/chadyi/StudyOnTV/releases/latest)
-[![Platform](https://img.shields.io/badge/Android-5.0%2B-3DDC84?style=for-the-badge&logo=android)](https://github.com/chadyi/StudyOnTV)
-[![License](https://img.shields.io/badge/license-Personal%20Use%20Only-orange?style=for-the-badge)](./LICENSE)
+[![发布](https://img.shields.io/github/v/release/chadyi/StudyOnTV?style=for-the-badge&label=Release)](https://github.com/chadyi/StudyOnTV/releases/latest)
+[![平台](https://img.shields.io/badge/Android-5.0%2B-3DDC84?style=for-the-badge&logo=android)](https://github.com/chadyi/StudyOnTV)
+[![许可证](https://img.shields.io/badge/license-仅限个人使用-orange?style=for-the-badge)](./LICENSE)
 
 </div>
 
@@ -28,11 +28,14 @@ Android 平板、手机和电视使用同一套规则，分别安装对应版本
 
 手机和平板直接下载安装；电视可通过 U 盘或 ADB 安装。首次打开设置管理密码，权限可以按需开启，也可以稍后再设置。
 
+- **[手机安卓控制台 · 蓝奏下载](https://wwbwo.lanzoum.com/iNxkv4f6700d)**
+- 
 👉 **[安装指南 → docs/install.md](./docs/install.md)**
+
 
 ---
 
-## 它能做什么
+##它能做什么
 
 孩子先完成学习任务，再解锁设备使用时间，到时显示新的学习任务。平板和手机支持触屏、公式、语音输入与手写，电视支持遥控器。题库、规则、使用记录和加练池都保存在被控设备。
 
